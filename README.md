@@ -20,5 +20,7 @@ You can do the above procedure by launching cells one-by-one in MTOPrep.m file.
 Objective and NormalValues are cells which have a string in their each cell.
 You can change strings and utilize it to another purpose.
 
+<a href="https://zenodo.org/badge/latestdoi/92599048"><img src="https://zenodo.org/badge/92599048.svg" alt="DOI"></a>
+
 Releases
 Ver 1.0.0, 2017/05/27
