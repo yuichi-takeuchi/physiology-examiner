@@ -134,11 +134,13 @@ function pushbutton9_Callback(hObject, eventdata, handles)
 NormalValueStr = '';
 range1 = floor(str2double(handles.edit1.String));
 range2 = floor(str2double(handles.edit2.String));
-while isempty(NormalValueStr)
+k = 0;
+while (isempty(NormalValueStr) && k < 1000)
     num1 = num2str(randi([range1 range2]));
     num2 = num2str(randi([2 3]));
     TopicStr = evalin('base', ['NormalValue{' num1 ',1}']);
     NormalValueStr = evalin('base', ['NormalValue{' num1 ',' num2 '}']);
+    k = k + 1;
 end
 set(handles.text14, 'String', TopicStr);
 set(handles.text15, 'String', NormalValueStr);
