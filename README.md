@@ -4,9 +4,11 @@ Matlab GUI which randomly asks 3 questions and normal values on medical physiolg
 The code has been tested in Matlab version 8.6.0.267246 (R2015b).
 
 The original questions and physiological normal values are public in our department web site.
+
 http://www.phys.szote.u-szeged.hu/index.php?lap=2&id=en
 
 Claimes to Yuichi Takeuchi PhD of Department of Physiolgy, University of Szeged, Hungary
+
 E-mail: yuichi-takeuchi@umin.net
 
 How to use:
