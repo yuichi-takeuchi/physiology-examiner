@@ -4,8 +4,8 @@ Matlab GUI which randomly asks three questions and normal values on medical phys
 ## Getting Started
 
 ### Prerequisites
-* Matlab (https://www.mathworks.com/products/matlab.html)
-The code has been tested in Matlab version 8.6.0.267246 (R2015b).
+* Matlab (https://www.mathworks.com/products/matlab.html).
+* The code has been tested in Matlab version 8.6.0.267246 (R2015b).
 
 ### How to use
 1. Launch the Matlab.
