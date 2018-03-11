@@ -5,15 +5,15 @@ Matlab GUI which randomly asks three questions and normal values on medical phys
 
 ### Prerequisites
 * Matlab (https://www.mathworks.com/products/matlab.html).
-* The code has been tested in Matlab version 8.6.0.267246 (R2015b).
+* The code has been tested in Matlab version 8.6 (R2015b).
 
 ### How to use
-1. Launch the Matlab.
-2. Load MTO.mat file and have Objectives and NormalValue variables in your Workspace.
-3. Launch MTO.fig
+1. Launch your Matlab.
+2. Load Physiology.mat file and you will find two variables in your Workspace (Objectives and NormalValue).
+3. Launch Physiology.fig
 
-* You can do the above procedure by launching cells one-by-one in MTOPrep.m file.
-* Objective and NormalValues are cells which have a string in their each cell.
+* You can do the above procedure by launching cells one-by-one in PhysiologyPrep.m file.
+* Objective and NormalValues are cells which have a string in each cell.
 * You can change strings and utilize it to another purpose.
 
 ## DOI
@@ -37,4 +37,4 @@ This project is licensed under the MIT License.
 * The Uehara Memorial Foundation
 
 ## References
-* Takeuchi Y (2017) EDUCATION. Journal of the Physiological Society of Japan 79: 8-15.
+* Takeuchi Y (2017) EDUCATION. Journal of the Physiological Society of Japan 79: 8-15. *(Japanese)*
