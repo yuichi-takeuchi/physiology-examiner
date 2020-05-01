@@ -1,14 +1,14 @@
 # physiology-examiner
-Matlab GUI which randomly asks three questions and normal values on medical physiolgy. The original questions and physiological normal values are public in our department web site (http://www.phys.szote.u-szeged.hu/index.php?lap=2&id=en).
+MATLAB GUI which randomly asks three questions and normal values on medical physiolgy. The original questions and physiological normal values are public in our department web site (http://www.phys.szote.u-szeged.hu/index.php?lap=2&id=en).
 
 ## Getting Started
 
 ### Prerequisites
-* Matlab (https://www.mathworks.com/products/matlab.html).
+* MATLAB (https://www.mathworks.com/products/matlab.html).
 * The code has been tested in Matlab version 8.6 (R2015b).
 
 ### How to use
-1. Launch your Matlab.
+1. Launch your MATLAB.
 2. Load Physiology.mat file and you will find two variables in your Workspace (Objectives and NormalValue).
 3. Launch Physiology.fig
 
@@ -28,7 +28,7 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Authors
 * **Yuichi Takeuchi PhD** - *Initial work* - [GitHub](https://github.com/yuichi-takeuchi)
 * Affiliation: Department of Physiology, University of Szeged, Hungary
-* E-mail: yuichi-takeuchi@umin.net
+* E-mail: takeuchi.yuichi@med.u-szeged.hu
 
 ## License
 This project is licensed under the MIT License.
